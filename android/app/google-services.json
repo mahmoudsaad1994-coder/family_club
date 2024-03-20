@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185467719688",
+    "project_id": "social-app-2024",
+    "storage_bucket": "social-app-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185467719688:android:1606cebab82971dfa281bd",
+        "android_client_info": {
+          "package_name": "com.example.chat_with_me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTcs24MgBXBErAunA7wO3I6AN8timKaYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
